@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Soham Kamble, a Full Stack Developer with over 1.5 years of experience in Application Development. My tech stack includes Java/J2EE, Spring Boot, NodeJs, and ReactJs, etc. I am adept in various SDLC methodologies, including Agile/SCRUM, TDD, and Waterfall, I'm experienced in working with both SQL and NoSQL databases, such as PostgreSQL, Oracle, and MongoDB. Additionally, I have substantial experience deploying applications on AWS and GCP and utilizing Jenkins for CI/CD.
+I'm Soham Kamble, a Full Stack Developer with over 1.5 years of experience in web application development using Java/J2EE, Spring Boot, NodeJs, and ReactJs. Adept in various SDLC methodologies, including Agile/SCRUM, TDD, and Waterfall, experienced in working with both SQL and NoSQL databases, such as PostgreSQL, Oracle, and MongoDB. Additionally, I've substantial experience deploying applications on AWS and GCP and utilizing Jenkins for CI/CD.
 <!--
 **skamble2/skamble2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
