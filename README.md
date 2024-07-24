@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 I'm Soham Kamble, a Full Stack Developer with over 1.5 years of experience in web application development using Java/J2EE, Spring Boot, NodeJs, and ReactJs. Adept in various SDLC methodologies, including Agile/SCRUM, TDD, and Waterfall, experienced in working with both SQL and NoSQL databases, such as PostgreSQL, Oracle, and MongoDB. Additionally, I've substantial experience deploying applications on AWS and GCP and utilizing Jenkins for CI/CD.
+
+[![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=skamble2)](https://github.com/skamble2/github-readme-stats)
+
 <!--
 **skamble2/skamble2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
