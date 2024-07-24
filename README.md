@@ -1,20 +1,12 @@
-## Hi there 👋
+### Hi there 👋, I'm Soham Kamble
+#### a Full Stack Developer
+with over 1.5 years of experience in web application development. Proficient in Java/J2EE, Spring Boot, NodeJs, and ReactJs. Adept in various SDLC methodologies, including Agile/SCRUM, TDD, and Waterfall, my skill set includes working with both SQL and NoSQL databases, such as PostgreSQL, Oracle, and MongoDB. Additionally, I have experience deploying applications on AWS and GCP and using Jenkins for CI/CD.
 
-I'm Soham Kamble, a Full Stack Developer with over 1.5 years of experience in web application development using Java/J2EE, Spring Boot, NodeJs, and ReactJs. Adept in various SDLC methodologies, including Agile/SCRUM, TDD, and Waterfall, experienced in working with both SQL and NoSQL databases, such as PostgreSQL, Oracle, and MongoDB. Additionally, I've substantial experience deploying applications on AWS and GCP and utilizing Jenkins for CI/CD.
+- 🌱 I’m currently learning HLD, and LLD 
+- 📫 How to reach me: soham.kamble911@gmail.com 
 
-[![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=skamble2)](https://github.com/skamble2/github-readme-stats)
 
-<!--
-**skamble2/skamble2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/skamble2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/soham-k-05b096270/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](codeninja404)  
 
-Here are some ideas to get you started:
+![GitHub streak stats](https://streak-stats.demolab.com/?user=skamble2)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
