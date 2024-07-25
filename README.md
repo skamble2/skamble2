@@ -4,8 +4,8 @@ with over 1.5 years of experience in web application development. Proficient in 
 
 Skills: Java, Spring Boot, ReactJs, NodeJS, SQL, AWS 
 
-- 🔭 I’m currently working on REST APIs as part of legacy to microservice migration. 
-- 🌱 I’m currently learning HLD & LLD. 
+- 🔭 I’m currently working on REST APIs as part of legacy to microservice migration 
+- 🌱 I’m currently learning HLD & LLD 
 - 💬 Ask me about Data Structures, Algorithms, Dynamic Programming, Graph Theory, etc. 
 - 📫 How to reach me: soham.kamble911@gmail.com 
 
