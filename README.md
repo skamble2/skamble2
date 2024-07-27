@@ -2,10 +2,10 @@
 #### a Full Stack Developer
 with over 1.5 years of experience in web application development. Proficient in Java/J2EE, Spring Boot, NodeJs, and ReactJs. Adept in various SDLC methodologies, including Agile/SCRUM, TDD, and Waterfall, my skill set includes working with both SQL and NoSQL databases, such as PostgreSQL, Oracle, and MongoDB. Additionally, I have experience deploying applications on AWS and GCP and using Jenkins for CI/CD.
 
-Skills: Java, Spring Boot, ReactJs, NodeJS, SQL, AWS 
+Skills: Java, Spring Boot, ReactJs, NodeJS, SQL, AWS. 
 
-- 🔭 I’m currently working on REST APIs as part of legacy to microservice migration 
-- 🌱 I’m currently learning HLD & LLD 
+- 🔭 I’m currently working on REST APIs as part of legacy to microservice migration. 
+- 🌱 I’m currently learning HLD & LLD. 
 - 💬 Ask me about Data Structures, Algorithms, Dynamic Programming, Graph Theory, etc. 
 - 📫 How to reach me: soham.kamble911@gmail.com 
 
