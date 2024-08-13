@@ -2,7 +2,7 @@
 #### a Full Stack Developer
 with over 1.5 years of experience in web application development. Proficient in Java/J2EE, Spring Boot, NodeJs, and ReactJs. Adept in various SDLC methodologies, including Agile/SCRUM, TDD, and Waterfall, my skill set includes working with both SQL and NoSQL databases, such as PostgreSQL, Oracle, and MongoDB. Additionally, I have experience deploying applications on AWS and GCP and using Jenkins for CI/CD.
 
-Skills: Java/J2EE, Spring Boot, ReactJs, NodeJS, SQL, AWS. 
+<h3 align="left">Skills</h3>
 
 <p align="left"> 
   <a href="https://www..com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
