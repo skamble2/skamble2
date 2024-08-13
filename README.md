@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Soham Kamble
 #### a Full Stack Developer
-based in Chicago, IL with over 2 years of experience in web application development.I thrive in dynamic environments and am comfortable adapting to the frequent changes in technology, whether it's migrating applications to microservices, optimizing database engines. I believe in the power of dedication and commitment to my work, which drives me to consistently deliver high-quality solutions.
+with over 2 years of experience in web application development.I thrive in dynamic environments and am comfortable adapting to the frequent changes in technology, whether it's migrating applications to microservices, optimizing database engines, integrating dynamic dashboards on the frontend, or implementing Design Patterns in Multi-Tier distributed applications. I believe in the power of dedication and commitment to my work, which drives me to consistently deliver high-quality solutions.
 
 ##### Skills
 
