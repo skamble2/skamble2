@@ -88,6 +88,7 @@ with over 2 years of experience in web application development. I truly enjoy wh
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=skamble2)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skamble2&show_icons=true&locale=en" alt="skamble2" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pa&show_icons=true&locale=en" alt="pa" /></p>-->
+
 
 
