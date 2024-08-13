@@ -80,7 +80,7 @@ with over 2 years of experience in web application development. I truly enjoy wh
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/skamble2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sohamk24/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](codeninja404)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=skamble2)  
+<a href="https://linkedin.com/in/sohamk24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sohamk24" height="30" width="40" /></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skamble2&show_icons=true&locale=en&layout=compact" alt="skamble2" /></p>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=skamble2)  
 
