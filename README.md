@@ -76,6 +76,7 @@ with over 2 years of experience in web application development. I truly enjoy wh
 - 💬 Ask me about Data Structures, Algorithms, Dynamic Programming, Graph Theory, etc. 
 - 📫 How to reach me: soham.kamble911@gmail.com 
 
+##### Connect with me
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/skamble2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sohamk24/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](codeninja404)  
 
