@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Soham Kamble
 #### a Full Stack Developer
-with over 2 years of experience in web application development. I truly enjoy what I do and I’m more of a self-made person, specifically the degrees, certifications and skills that I hold today is merely through self-learning and the passion I carry. I thrive in dynamic environments and am comfortable adapting to the frequent changes in technology, whether it's migrating applications to microservices, optimizing database engines, creating responsive UIs, or developing multi-tiered object oriented system architectures. Above all, I solely trust in dignity and commitment towards the work I’m engaged to, which is a significant part of progress
+with over 2 years of experience in web application development. I truly enjoy what I do and I’m more of a self-made person, specifically the degrees, certifications and skills that I hold today is merely through self-learning and the passion I carry. I thrive in dynamic environments and am comfortable adapting to the frequent changes in technology, whether it's migrating applications to microservices, optimizing database engines, or integrating dynamic dashboards on the frontend. Above all, I solely trust in dignity and commitment towards the work I’m engaged to, which is a significant part of progress.
 
 ##### Skills
 
@@ -81,4 +81,6 @@ with over 2 years of experience in web application development. I truly enjoy wh
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/skamble2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sohamk24/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](codeninja404)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=skamble2)  
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skamble2&show_icons=true&locale=en&layout=compact" alt="skamble2" /></p>
 
