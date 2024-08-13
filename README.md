@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Soham Kamble
 #### a Full Stack Developer
-based in Chicago, IL with over 2 years of experience in web application development. Proficient in Java/J2EE, Spring Boot, NodeJs, and ReactJs. Adept in various SDLC methodologies, including Agile/SCRUM, TDD, and Waterfall, my skill set includes working with both SQL and NoSQL databases, such as PostgreSQL, Oracle, and MongoDB. Additionally, I have experience deploying applications on AWS and GCP and using Jenkins for CI/CD.
+based in Chicago, IL with over 2 years of experience in web application development.I thrive in dynamic environments and am comfortable adapting to the frequent changes in technology, whether it's migrating applications to microservices, optimizing database engines. I believe in the power of dedication and commitment to my work, which drives me to consistently deliver high-quality solutions.
 
 ##### Skills
 
