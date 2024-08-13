@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Soham Kamble
 #### a Full Stack Developer
-with over 2 years of experience in web application development.I thrive in dynamic environments and am comfortable adapting to the frequent changes in technology, whether it's migrating applications to microservices, optimizing database engines, integrating dynamic dashboards on the frontend, or implementing Design Patterns in Multi-Tier distributed applications. I believe in the power of dedication and commitment to my work, which drives me to consistently deliver high-quality solutions.
+with over 2 years of experience in web application development. I truly enjoy what I do and I’m more of a self-made person, specifically the degrees, certifications and skills that I hold today is merely through self-learning and the passion I carry. I thrive in dynamic environments and am comfortable adapting to the frequent changes in technology, whether it's migrating applications to microservices, optimizing database engines, creating responsive UIs, or developing multi-tiered object oriented system architectures. Above all, I solely trust in dignity and commitment towards the work I’m engaged to, which is a significant part of progress
 
 ##### Skills
 
