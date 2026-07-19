@@ -4,59 +4,25 @@ with over 2 years of experience in web application development. I truly enjoy wh
 
 ##### Skills
 
-##### Skills
-
-**Languages & Core**
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-</p>
-
-**ML & Deep Learning**
-<p align="left">
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/></a>
-  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="spark" width="40" height="40"/></a>
-</p>
-
-**LLM & Agentic AI**
-<p align="left">
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/langchain" alt="langchain" width="40" height="40"/></a>
-  <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/langgraph" alt="langgraph" width="40" height="40"/></a>
-  <a href="https://www.anthropic.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/claude" alt="claude agent sdk" width="40" height="40"/></a>
-  <a href="https://modelcontextprotocol.io/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/modelcontextprotocol/7C7CFF" alt="model context protocol" width="40" height="40"/></a>
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/huggingface" alt="hugging face" width="40" height="40"/></a>
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/langchain" alt="langchain" width="40" height="40"/></a>
+  <a href="https://www.anthropic.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/claude" alt="claude agent sdk" width="40" height="40"/></a>
+  <a href="https://modelcontextprotocol.io/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/modelcontextprotocol/7C7CFF" alt="mcp" width="40" height="40"/></a>
   <a href="https://opensearch.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/opensearch" alt="opensearch" width="40" height="40"/></a>
-</p>
-
-**Data Engineering & Streaming**
-<p align="left">
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a>
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="spark" width="40" height="40"/></a>
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="airflow" width="40" height="40"/></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/></a>
-  <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/databricks" alt="databricks" width="40" height="40"/></a>
-</p>
-
-**MLOps & Cloud**
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://mlflow.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/mlflow" alt="mlflow" width="40" height="40"/></a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/></a>
   <a href="https://aws.amazon.com/bedrock/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws bedrock" width="40" height="40"/></a>
   <a href="https://cloud.google.com/vertex-ai" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp vertex ai" width="40" height="40"/></a>
-  <a href="https://mlflow.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/mlflow" alt="mlflow" width="40" height="40"/></a>
-</p>
-
-**Observability & Evals**
-<p align="left">
   <a href="https://grafana.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/></a>
-  <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/></a>
 </p>
-
-*Also in my toolkit: Pinecone · pgvector · RAGAS · Langfuse · Arize AI · Kubeflow · vLLM*
 
 - 🔭 I’m currently working on REST APIs as part of legacy to microservice migration. 
 - 🌱 I’m currently learning HLD & LLD. 
