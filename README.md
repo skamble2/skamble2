@@ -24,7 +24,7 @@ with over 2 years of experience in Enterprise AI. I truly enjoy what I do, and I
   <a href="https://grafana.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/></a>
 </p>
 
-- 🔭 I’m currently working on Agentic AI assitant serving 200+ distribution centers. 
+- 🔭 I’m currently working on Agentic AI assitant for supply chain ops. 
 - 🌱 I’m currently learning autonomous agents & multi-agent coordination.
 - 💬 Ask me about Agentic RAG, LLM evals, vector search, distributed training & production ML at scale. 
 - 📫 How to reach me: soham.kamble911@gmail.com 
