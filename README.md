@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Soham Kamble
-#### a Applied AI/ML Engineer
+#### an Applied AI/ML Engineer
 with over 2 years of experience in Enterprise AI. I truly enjoy what I do, and I'm very much a self-made person - the degrees, research papers, and skills I hold today came through self-learning and the passion I carry. I thrive in dynamic environments and adapt comfortably to how fast this technology changes, whether it's designing Agentic AI applications, engineering vector search, or building the evals and monitoring that keep AI systems honest in production. Above all, I bring dignity and commitment to every piece of work I take on, which I believe is a significant part of progress.
 
 ##### Skills
@@ -38,6 +38,7 @@ with over 2 years of experience in Enterprise AI. I truly enjoy what I do, and I
 <a href="https://github.com/codeninja404" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
 </a>
+<a href="https://www.researchgate.net/scientific-contributions/Soham-Kamble-2183211563" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.simpleicons.org/researchgate/00CCBB" alt="ResearchGate" height="30" width="40" /></a>
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=skamble2)  
 
