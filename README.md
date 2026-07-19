@@ -25,17 +25,17 @@ with over 2 years of experience in Enterprise AI. I truly enjoy what I do, and I
 </p>
 
 - 🔭 I’m currently working on Agentic AI assitant serving 200+ distribution centers. 
-- 🌱 I’m currently learning autonomous agents & multi-agent coordination
+- 🌱 I’m currently learning autonomous agents & multi-agent coordination.
 - 💬 Ask me about Agentic RAG, LLM evals, vector search, distributed training & production ML at scale. 
 - 📫 How to reach me: soham.kamble911@gmail.com 
 
 ##### Connect with me 
 
-<a href="https://linkedin.com/in/sohamk24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sohamk24" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/soham-kamble-026224411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soham-kamble-026224411" height="30" width="40" /></a>
 <a href="https://leetcode.com/codeninja404" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
 </a>
-<a href="https://github.com/skamble2" target="_blank">
+<a href="https://github.com/codeninja404" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
 </a>
 
