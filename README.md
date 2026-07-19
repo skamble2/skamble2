@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Soham Kamble
-#### a Full Stack Developer
-with over 2 years of experience in web application development. I truly enjoy what I do and I’m more of a self-made person, specifically the degrees, certifications and skills that I hold today is merely through self-learning and the passion I carry. I thrive in dynamic environments and am comfortable adapting to the frequent changes in technology, whether it's migrating applications to microservices, optimizing database engines, or integrating dynamic dashboards on the frontend. Above all, I solely trust in dignity and commitment towards the work I’m engaged to, which is a significant part of progress.
+#### a Applied AI/ML Engineer
+with over 2 years of experience in Enterprise AI. I truly enjoy what I do, and I'm very much a self-made person — the degrees, research papers, and skills I hold today came through self-learning and the passion I carry. I thrive in dynamic environments and adapt comfortably to how fast this technology changes, whether it's designing Agentic AI applications, engineering vector search, or building the evals and monitoring that keep AI systems honest in production. Above all, I bring dignity and commitment to every piece of work I take on, which I believe is a significant part of progress.
 
 ##### Skills
 
