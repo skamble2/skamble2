@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Soham Kamble
 #### a Applied AI/ML Engineer
-with over 2 years of experience in Enterprise AI. I truly enjoy what I do, and I'm very much a self-made person — the degrees, research papers, and skills I hold today came through self-learning and the passion I carry. I thrive in dynamic environments and adapt comfortably to how fast this technology changes, whether it's designing Agentic AI applications, engineering vector search, or building the evals and monitoring that keep AI systems honest in production. Above all, I bring dignity and commitment to every piece of work I take on, which I believe is a significant part of progress.
+with over 2 years of experience in Enterprise AI. I truly enjoy what I do, and I'm very much a self-made person - the degrees, research papers, and skills I hold today came through self-learning and the passion I carry. I thrive in dynamic environments and adapt comfortably to how fast this technology changes, whether it's designing Agentic AI applications, engineering vector search, or building the evals and monitoring that keep AI systems honest in production. Above all, I bring dignity and commitment to every piece of work I take on, which I believe is a significant part of progress.
 
 ##### Skills
 
@@ -24,9 +24,9 @@ with over 2 years of experience in Enterprise AI. I truly enjoy what I do, and I
   <a href="https://grafana.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/></a>
 </p>
 
-- 🔭 I’m currently working on REST APIs as part of legacy to microservice migration. 
-- 🌱 I’m currently learning HLD & LLD. 
-- 💬 Ask me about Data Structures, Algorithms, Dynamic Programming, Graph Theory, etc. 
+- 🔭 I’m currently working on Agentic AI assitant serving 200+ distribution centers. 
+- 🌱 I’m currently learning autonomous agents & multi-agent coordination
+- 💬 Ask me about Agentic RAG, LLM evals, vector search, distributed training & production ML at scale. 
 - 📫 How to reach me: soham.kamble911@gmail.com 
 
 ##### Connect with me 
